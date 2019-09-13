@@ -1,0 +1,2 @@
+# javaArrays
+some arrays exercise
